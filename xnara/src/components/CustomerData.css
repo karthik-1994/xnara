@@ -1,0 +1,22 @@
+/* src/components/CustomerData.css */
+.customer-data {
+    margin: 20px;
+  }
+  
+  .customer-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    margin-top: 20px;
+  }
+  
+  .customer-table th,
+  .customer-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .pack-item {
+    margin-bottom: 10px;
+  }
+  
